@@ -13,7 +13,7 @@ hello world program örneği:
 <?php
     echo "hello world";
 ?>
-```php
+```
 
 <div align="right">
     <b><a href="#">↥ Üstte Dön</a></b>
