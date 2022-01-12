@@ -13,3 +13,8 @@ hello world program örneği:
 <?php
     echo "hello world";
 ?>
+
+<div align="right">
+    <b><a href="#">↥ Üstte Dön</a></b>
+</div>
+
