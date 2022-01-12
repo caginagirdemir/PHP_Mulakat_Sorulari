@@ -2,7 +2,7 @@
 
 <br/>
 
-## Q. ***What is PHP?***
+## S. ***PHP Nedir?***
 
 PHP veya Hypertext Pre-processor C dilinde yazılmış genel amaçlı programlama dilidir ve dinamik web uygulamaları için kullanılır. PHP, hem Prosedürel Programlamayı hem de Nesne Yönelimli Programlamayı destekler.
 
